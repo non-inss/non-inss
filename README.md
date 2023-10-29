@@ -1,6 +1,6 @@
-<img src="https://github.com/non-inss/non-inss/assets/122503960/92438258-5524-491a-a86f-a11a371dd0d5" width="900" height="250">
+<img src="https://github.com/non-inss/non-inss/assets/122503960/bacaab82-4563-40e9-a785-56955f0e8dc6" width="900" height="250">
 <div align=center>
-  
+
 
 # 🛠️ Stacks
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
