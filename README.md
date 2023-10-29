@@ -5,7 +5,7 @@
   
   <h1 align="center>👓 About Me</h1>
   <h3 align="center">
-    <b>"It's not a bug, it's a feature 💻"</b>
+    <b>"It's not a bug, it's a feature 💻"</b> <br>
     <b>"I'm growing everyday⌚"</b>
   </h3>
 </div>
