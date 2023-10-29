@@ -1,7 +1,7 @@
 ![4](https://github.com/non-inss/non-inss/assets/122503960/543dc2b0-ad9b-46ee-a7f1-06a5b730d832)
 <div align=center>
 
-# 👓 About Me
+  👓 About Me </h1>
   <h3>"It's not a bug, it's a feature 💻"</h3>
   <h3>"I'm growing everyday⌚"</h3>
 
