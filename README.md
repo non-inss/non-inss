@@ -1,6 +1,8 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=안녕하세요%20이명인입니다&fontSize=90&fontAlignY=40&desc=소개&descAlignY=70&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=안녕하세요&fontSize=50&fontAlignY=40)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=이명인입니다&fontSize=50&fontAlignY=40&desc=소개&descAlignY=70&descAlign=62)
 
 
 
