@@ -1,11 +1,15 @@
 ![4](https://github.com/non-inss/non-inss/assets/122503960/543dc2b0-ad9b-46ee-a7f1-06a5b730d832)
 <div align=center>
 
-  <h1>👓 About Me </h1>
+ <div align="center">
+  <h1>👓 About Me</h1>
   <h3>"It's not a bug, it's a feature 💻"</h3>
-  <h3>"I'm growing everyday⌚"</h3> <br>
+  <h3>"I'm growing everyday⌚"</h3>
 
-# 🛠️ Stacks
+
+<br>
+
+<h1>🛠️ Stacks</h1>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
@@ -25,7 +29,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=non-inss&show_icons=true&theme=dracula)
 
 
-
+</div>
   
  <!-- # 🐱 About Me
 
