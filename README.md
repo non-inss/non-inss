@@ -1,6 +1,7 @@
-<div align=center>
+<div align="center">
+
 ![4](https://github.com/non-inss/non-inss/assets/122503960/543dc2b0-ad9b-46ee-a7f1-06a5b730d832)
-  
+
 # 👓 About Me
 
 ### "It's not a bug, it's a feature 💻"
@@ -30,7 +31,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=non-inss&show_icons=true&theme=dracula)
 
 
-
+</div>
   
  <!-- # 🐱 About Me
 
