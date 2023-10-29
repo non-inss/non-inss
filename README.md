@@ -3,7 +3,7 @@
 
   <h1>👓 About Me </h1>
   <h3>"It's not a bug, it's a feature 💻"</h3>
-  <h3>"I'm growing everyday⌚"</h3>
+  <h3>"I'm growing everyday⌚"</h3> <br>
 
 # 🛠️ Stacks
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
