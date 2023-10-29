@@ -3,7 +3,7 @@
   
 <div align="center">
   
-  <h1 align="center>👓 About Me</h1>
+  <h1 align="center">👓 About Me</h1>
   <h3 align="center">
     <b>"It's not a bug, it's a feature 💻"</b> <br>
     <b>"I'm growing everyday⌚"</b>
