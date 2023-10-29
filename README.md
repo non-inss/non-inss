@@ -1,18 +1,13 @@
 ![4](https://github.com/non-inss/non-inss/assets/122503960/543dc2b0-ad9b-46ee-a7f1-06a5b730d832)
 <div align=center>
   
-<div align="center">
-  
-  <h1 align="center">👓 About Me</h1>
-  <h3 align="center">
-    <b>"It's not a bug, it's a feature 💻"</b> <br>
-    <b>"I'm growing everyday⌚"</b>
-  </h3>
-</div>
+# 👓 About Me
 
+### "It's not a bug, it's a feature 💻"
+### "I'm growing everyday⌚" 
 <br>
 
-<h1 align="center">🛠️ Stacks</h1>
+# 🛠️ Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
