@@ -1,6 +1,7 @@
 <div align=center>
   
-# ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요%20이명인입니다&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=안녕하세요%20이명인입니다&fontSize=90&fontAlignY=40&desc=소개&descAlignY=70&descAlign=62)
+
 
 
 # 🛠️ Stacks
