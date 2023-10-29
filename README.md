@@ -1,4 +1,4 @@
-<img src="https://github.com/non-inss/non-inss/assets/122503960/92438258-5524-491a-a86f-a11a371dd0d5" width="1000" height="300">
+<img src="https://github.com/non-inss/non-inss/assets/122503960/92438258-5524-491a-a86f-a11a371dd0d5" width="1000" height="200">
 <div align=center>
   
 
