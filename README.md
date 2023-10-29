@@ -3,7 +3,7 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=INSS&fontAlign=30&fontSize=50&textBg=true&desc=이명인&descAlign=80&descAlignY=50)
 
 
-
+https://github.com/non-inss/non-inss/issues/1#issue-1967071865
 
 # 🛠️ Stacks
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
