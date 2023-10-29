@@ -1,6 +1,6 @@
 <div align=center>
   
-# ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=이명인&fontAlign=30&fontSize=30&textBg=true&desc=저를소개합니다&descAlign=60&descAlignY=50)
+# ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=INSS&fontAlign=30&fontSize=30&textBg=true&desc=저를소개합니다&fontSize=30&descAlign=60&descAlignY=50)
 
 
 
