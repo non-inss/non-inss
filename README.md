@@ -1,6 +1,6 @@
 <div align=center>
   
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=INSS&fontAlign=30&fontSize=30&textBg=true&desc=이명인&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=INSS&fontAlign=30&fontSize=30&textBg=true&desc=이명인&desc=boid&descAlign=60&descAlignY=50)
 
 
 
