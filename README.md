@@ -4,7 +4,7 @@
 
 # 👓 About Me 
 
-### "It's not a bug, it's a feature 💻"
+### "항상 즐겁고 재밌게하기 💻"
 ### "I'm growing everyday⌚" 
 <br>
 
