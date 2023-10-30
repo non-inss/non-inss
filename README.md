@@ -4,7 +4,7 @@
 
 # 👓 About Me 
 
-### "항상 즐겁고 재밌게하기 💻"
+### "항상 즐겁고 재미있게 즐기며 💻"
 ### "I'm growing everyday⌚" 
 <br>
 
