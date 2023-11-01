@@ -2,10 +2,10 @@
 
 ![4](https://github.com/non-inss/non-inss/assets/122503960/543dc2b0-ad9b-46ee-a7f1-06a5b730d832)
 
-# 👓 About Me 
+# <span>👓 About Me</span>
 
-### "항상 즐겁고 재미있게 즐기며 💻"
-### "I'm growing everyday⌚" 
+### <span>"항상 즐겁고 재미있게 즐기며 💻"</span>
+### <span>"I'm growing everyday⌚"</span>
 <br>
 
 # 🛠️ Stacks
